@@ -1,4 +1,4 @@
-<img align="center" src="assets/header.jpeg" width="1000" />
+<!-- <img align="center" src="assets/header.jpeg" width="1000" /> -->
 
 # Hi there, I'm Maksim 👋
 
