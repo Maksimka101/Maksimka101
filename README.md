@@ -1,7 +1,5 @@
 <img align="center" src="assets/header.jpeg" width="1000" />
 
-<br>
-
 # Hi there, I'm Maksim 👋
 
 I'm a senior developer with a passion for creating high-quality software. I specialize in:
